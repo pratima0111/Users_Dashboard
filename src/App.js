@@ -5,9 +5,6 @@ import NavBar from './components/NavBar/NavBar';
 import Dashboard from './components/Dashboard/Dashboard';
 import EditUserForm from './components/Edit/Edit';
 
-// "homepage": "https://pratima0111.github.io/Users_Dashboard",
-
-
 function App() {
   return (
     <div className='App'>
