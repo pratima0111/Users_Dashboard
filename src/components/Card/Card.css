@@ -1,0 +1,18 @@
+.card_container{
+    transition: all .25s linear;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.4);
+}
+
+.card_container:hover{
+    box-shadow: -1px 10px 29px 0px rgba(0,0,0,0.8);
+}
+
+.card_media{
+    width: 170px !important;
+}
+
+@media  (max-width:400px) {
+    .card_media{
+        width: 120px !important;
+    }
+}
