@@ -56,10 +56,9 @@ export default function BasicCard({ user, index, onDelete }) {
         </Box>
 
         <CardMedia
-          // sx={{ width: 140 }}
           className='card_media'
-          image='Profile_Icon.png'
-          title='green iguana'
+          image='https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg'
+          title='img'
           component='img'
         />
       </Card>
